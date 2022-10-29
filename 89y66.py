@@ -62,3 +62,5 @@ def game(choice, result):
 result = {"computer": 0, "player": 0}
 choise = input("Select R / P / S – ")
         game(choice=choise, result=result)
+
+        print('hello my dear teacher')
