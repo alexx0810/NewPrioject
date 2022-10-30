@@ -27,3 +27,5 @@ class Character:
 
     def attack(self, target):
         target.take_damage(self.damage)
+
+        print('end')
